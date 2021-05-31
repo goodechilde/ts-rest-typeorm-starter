@@ -6,6 +6,8 @@ To begin, clone the repository then type:
 
 `npm install`
 
+Copy the .env.example file to .env then update the variables how you like.
+
 You can then start up the dev server using:
 
 `npm run dev`
